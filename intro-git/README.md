@@ -25,6 +25,7 @@ archivos al stage area)
 -<strong>git branch nombre rama</strong> (crear nueva rama)
 -<strong>git checkout nombre-rama</strong> (cambiar de rama)
 -<strong>git merge nombre-rama</strong> (unir commits de dos ramas)
+-<strong>git branch -d nombre-rama</strong> (eliminar rama)
 
 
 
